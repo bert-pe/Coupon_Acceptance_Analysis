@@ -1,0 +1,14 @@
+Below are system generated files that get placed in my computer's git folder/directory.
+I want a clean GitHub repository with just the essentials and not extras.
+With this file in place, general commits to my git will ignore these files.
+That way they do not end up on GitHub either.
+
+# macOS Finder files
+.DS_Store
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache folders
+__pycache__/
+
